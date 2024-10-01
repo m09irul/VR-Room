@@ -1933,7 +1933,7 @@ PrefabInstance:
     - target: {fileID: 2742077930350400208, guid: 1f25586e29af5114cbf72f380624b329,
         type: 3}
       propertyPath: m_Intensity
-      value: 0
+      value: 1.9069098
       objectReference: {fileID: 0}
     - target: {fileID: 7673428560594779247, guid: 1f25586e29af5114cbf72f380624b329,
         type: 3}
@@ -2033,7 +2033,7 @@ MonoBehaviour:
   sessionType: 0
   breathingGuide: {fileID: 1459246637}
   muscleRelaxationGuide: {fileID: 865552151}
-  apiKey: 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
+  apiKey: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
